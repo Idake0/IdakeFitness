@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdakeFitness.BL", "IdakeFitness.BL\IdakeFitness.BL.csproj", "{480AC4F8-1CDC-49DA-A8CC-AA1FF5BBD97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdakeFitness.CMD", "IdakeFitness.CMD\IdakeFitness.CMD.csproj", "{1ED82A25-78D2-46A5-A39C-361F9BC60330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480AC4F8-1CDC-49DA-A8CC-AA1FF5BBD97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480AC4F8-1CDC-49DA-A8CC-AA1FF5BBD97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480AC4F8-1CDC-49DA-A8CC-AA1FF5BBD97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480AC4F8-1CDC-49DA-A8CC-AA1FF5BBD97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED82A25-78D2-46A5-A39C-361F9BC60330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED82A25-78D2-46A5-A39C-361F9BC60330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED82A25-78D2-46A5-A39C-361F9BC60330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED82A25-78D2-46A5-A39C-361F9BC60330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC4EE32-F793-40EE-9569-F7B9D04A927E}
+	EndGlobalSection
+EndGlobal
